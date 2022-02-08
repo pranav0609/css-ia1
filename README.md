@@ -1,5 +1,5 @@
 # css-ia1
-Python-nmap implementation for CSSS IA1
+Python-nmap implementation for CSS IA1
 
 
 We have compared using sockets and python-nmap library for scanning various ports. 
