@@ -18,10 +18,22 @@ To overcome this, we used the python-nmap library. This allows us to see more de
 Clone the project to your local machine
 
 
-Run portscan-socets.py file for using sockets method
+Download nmap from [here](https://nmap.org/download.html)
 
 
-Run portscan-nmap.py for using nmap method
+Then in cmd:
+```
+pip install python-nmap
+```
+
+
+Move to the folder where you have cloned the python files
+
+
+Run ``` python3 portscan-sockets.py ``` file for using sockets method
+
+
+Run ``` python2 portscan-nmap.py``` for using nmap method
 
 All comments have been mentioned in the scripts for better understanding of the implementation.
 
