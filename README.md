@@ -33,7 +33,7 @@ Move to the folder where you have cloned the python files
 Run ``` python3 portscan-sockets.py ``` file for using sockets method
 
 
-Run ``` python2 portscan-nmap.py``` for using nmap method
+Run ``` python3 portscan-nmap.py``` for using nmap method
 
 All comments have been mentioned in the scripts for better understanding of the implementation.
 
